@@ -1,5 +1,6 @@
 // is.js 0.7.3
 // Author: Aras Atasaygin
+//Nandankumar
 
 // AMD with global, Node, or global
 ;(function(root, factory) {
